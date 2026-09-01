@@ -2,8 +2,8 @@
 
 > **Live Portals**:
 >
-> - 🏢 **Agent Portal**: [https://dream-supreme-property-management.vercel.app](https://dream-supreme-property-management.vercel.app)
-> - 🛡️ **Admin Portal**: [https://admin-dreamsupreme.vercel.app](https://admin-dreamsupreme.vercel.app)
+> - 🏢 **Agent Portal**: [https://agent-dream-supreme-property-management.vercel.app](https://agent-dream-supreme-property-management.vercel.app)
+> - 🛡️ **Admin Portal**: [https://admin-dream-supreme-property-management.vercel.app](https://admin-dream-supreme-property-management.vercel.app)
 
 Welcome to the **Dream Supreme** internal operations platform.
 
